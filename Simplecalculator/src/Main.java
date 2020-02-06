@@ -9,14 +9,14 @@ public class Main {
 		System.out.println("SIMPLE CALCULATOR");
 		System.out.println("--------------------");
 		System.out.println("AVAILABLE OPERATIONS");
-	    System.out.println("1.ADDITION(+)");
-	    System.out.println("2.SUBTRACTION(-)");
-	    System.out.println("3.MULTIPLICATION(*)");
-	    System.out.println("4.DIVISION(/)");
-	    System.out.println("5.EXIT");
+	        System.out.println("1.ADDITION(+)");
+	        System.out.println("2.SUBTRACTION(-)");
+	        System.out.println("3.MULTIPLICATION(*)");
+	        System.out.println("4.DIVISION(/)");
+	        System.out.println("5.EXIT");
 	  
- while(true) {
-	    	try {
+         while(true) {
+	    	  try {
 	    	     System.out.println("SELECT AN OPTION(1-5)");
 	    	     Scanner sc= new Scanner(System.in);
 	        
